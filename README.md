@@ -35,8 +35,8 @@
 字段说明： 
 type: 2-> banner；3:->类目推荐;4:->一行一个广告位-1;5->Flashsale商品;6->商品集合;7->商品推荐
 title: { // 标题对象
-  title: ''， // 图片title
-  url: '' // 图片链接
+  "title": ""， // 图片title
+  "url": "" // 图片链接
 }
 "content":[ // 资源位数据
   {
